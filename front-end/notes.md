@@ -22,5 +22,21 @@ Client -> Javascript -> Browser(environment) -> Javascript Engine
 
 Server -> Javascript -> Node JS (run-time-environment) -> Javascript Engine 
 
+Node JS Modules
+
+=> Core Modules
+    -> Fs, http, os
+Custom Modules 
+    -> Utils
+NPM Modules (3rd Party)
+    -> Bcrypt JS
+    -> Jsonwebtoken
+    -> Express
+--------------
+REPL Environment -> Node js
+
+Read
+Eval
+Print
 
 
