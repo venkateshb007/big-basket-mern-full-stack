@@ -6,7 +6,7 @@ const App = () => {
     <div className="App">
       <nav className="navbar navbar-dark navbar-expand-sm bg-primary">
         <a href="/" className="navbar-brand">
-          Big-Basket
+          Big-Basket-mern-fullstack
         </a>
       </nav>
 
