@@ -15,8 +15,6 @@ A brief description of what this project does and who it's for.
 
 ## Project Description
 
-Provide a more detailed description of the project, its purpose, and its goals. Explain why this project exists and what it aims to solve.
-
 ## Features
 
 List the main features of the project. For example:
