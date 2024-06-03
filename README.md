@@ -48,9 +48,4 @@ List the main features of the project. For example:
 ### Prerequisites
 - Node.js
 - npm or yarn
-- MongoDB
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+- MongoD
