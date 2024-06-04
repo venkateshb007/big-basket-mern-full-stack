@@ -43,9 +43,3 @@ List the main features of the project. For example:
 - RESTful APIs
 - JWT (JSON Web Tokens) for authentication
 
-## Installation
-
-### Prerequisites
-- Node.js
-- npm or yarn
-- MongoD
