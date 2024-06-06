@@ -8,10 +8,4 @@ A brief description of what this project does and who it's for.
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-n
-
+- [Usage](#usag
