@@ -8,25 +8,19 @@ import ProductAdmin from "./components/products/ProductAdmin";
 import CreateProduct from "./components/products/CreateProduct";
 import UpdateProduct from "./components/products/UpdateProduct";
 
-<<<<<<< HEAD
 class App extends React.Component {
   constructor(props) {
     super(props);
   }
-=======
-const App = () => {
-  return (
-    <div className="App">
-      <nav className="navbar navbar-dark navbar-expand-sm bg-primary">
-        <a href="/" className="navbar-brand">
-          Big-Basket-mern-fullstack
-        </a>
-      </nav>
->>>>>>> 3a16636c54eb84489947f86927e558ad7bf208b5
 
   render() {
     return (
       <div className="App">
+        <nav className="navbar navbar-dark navbar-expand-sm bg-primary">
+          <a href="/" className="navbar-brand">
+            Big-Basket-mern-fullstack
+          </a>
+        </nav>
         <Router>
           <Navbar />
           <Routes>
